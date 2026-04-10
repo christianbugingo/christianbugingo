@@ -8,7 +8,9 @@
         With expertise in <b>machine learning</b>, <b>statistical analysis</b>, and <b>data visualization</b>. 
         I am seeking opportunities to leverage my skills to contribute to data-driven decision-making.
       </p>
-      <p>📫 <b>Let's Connect:</b> (https://www.linkedin.com/in/bugingo-christian-003862244/)</p>
+      <p>📫 <b>Let's Connect:</b> <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/bugingo-christian-003862244/)">
+  <img src="https://img.shields.io/badge/JOIN%20MY%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a></p>
     </td>
     <td width="40%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christianbugingo&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
@@ -37,9 +39,13 @@
 ---
 
 ### 📊 GitHub Statistics
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianbugingo&show_icons=true&theme=vision-friendly-dark)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Christianbugingo&show_icons=true&theme=vision-friendly-dark" alt="Christian's GitHub stats" />
+</p>
 
 ---
 
 ### 📈 Current Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christianbugingo&theme=vision-friendly-dark)
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Christianbugingo&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
