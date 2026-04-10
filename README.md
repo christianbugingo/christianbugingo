@@ -8,7 +8,7 @@
         With expertise in <b>machine learning</b>, <b>statistical analysis</b>, and <b>data visualization</b>. 
         I am seeking opportunities to leverage my skills to contribute to data-driven decision-making.
       </p>
-      <p>📫 <b>Let's Connect:</b> [Your Email or LinkedIn Link Here]</p>
+      <p>📫 <b>Let's Connect:</b> (https://www.linkedin.com/in/bugingo-christian-003862244/)</p>
     </td>
     <td width="40%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christianbugingo&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
