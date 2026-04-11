@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/JOIN%20MY%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a></p>
     </td>
-    <td width="40%" valign="top">
-     
-    </td>
+   
   </tr>
 </table>
 
@@ -39,8 +37,6 @@
 ---
 
 
-
----
 
 ### 📈 Current Activity
 <p align="left">
