@@ -13,7 +13,7 @@
 </a></p>
     </td>
     <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christianbugingo&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+     
     </td>
   </tr>
 </table>
@@ -38,10 +38,7 @@
 
 ---
 
-### 📊 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Christianbugingo&show_icons=true&theme=vision-friendly-dark" alt="Christian's GitHub stats" />
-</p>
+
 
 ---
 
